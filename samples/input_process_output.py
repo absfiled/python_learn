@@ -3,7 +3,8 @@
 #
 # Online Python
 # https://www.online-python.com/
-# THIS IS EVEN BETTER
+# 
+# BEING THE AUTHOR, I THINK IT INAPPROPRIATE FOR OTHERS TO ADD COMMENTS HERE.  ONE LINE ABOVE REMOVED.
 
 '''
 My First Python Program - Input -> Process -> Output, with UDFs
